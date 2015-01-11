@@ -5,7 +5,7 @@ and https://github.com/mathiasbynens/dotfiles  (modified)
 
 ## Usage:
 ``bash
-git clone https://github.com/kiselli/.dotfiles.git ~/.dotfiles
-cd ~/.dotfiles
-/bin/bash install.sh
+git clone https://github.com/kiselli/.dotfiles.git ~/.dotfiles  
+cd ~/.dotfiles  
+/bin/bash install.sh  
 ``
