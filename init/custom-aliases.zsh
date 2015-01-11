@@ -1,1 +1,1 @@
-alias md="mkdir @1 && cd @1"
+md () { mkdir -p "$@" && cd "$@"; }

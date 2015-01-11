@@ -1,5 +1,8 @@
 brew install caskroom/cask/brew-cask
 
+# Dependencys 
+brew cask install caskroom/versions/java7 ## for intellij-idea
+
 # Terminal
 brew cask install iterm2
 
@@ -17,7 +20,7 @@ brew cask install google-drive
 
 # Ides
 brew cask install sublime-text
-brew cask install intellij-edea
+brew cask install intellij-idea
 brew cask install atom
 brew cask install phpstorm
 brew cask install brackets
@@ -26,8 +29,7 @@ brew cask install brackets
 ## Virtualisation
 brew cask install virtualbox
 ### Docker
-brew install boot2docker
-brew install docker
+brew install boot2docker # installs docker as dependency
 ### Vagrant
 brew cask install vagrant
 brew cask install vagrant-manager
@@ -44,3 +46,6 @@ brew cask install sizeup
 
 # Security
 brew cask install lastpass
+
+## open lastpass installer
+open /opt/homebrew-cask/Caskroom/lastpass/latest/LastPass Installer.app

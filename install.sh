@@ -5,3 +5,5 @@ sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/instal
 /bin/bash ./apps.sh
 
 /bin/bash ./osx.sh
+
+/bin/bash ./aliases.sh
