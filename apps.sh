@@ -44,6 +44,9 @@ brew cask install calibre
 # Window resize
 brew cask install sizeup
 
+# VPN
+brew cask install tunnelblick
+
 # Security
 brew cask install lastpass
 
